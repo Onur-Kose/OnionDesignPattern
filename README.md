@@ -1,1 +1,4 @@
 # OnionDesignPattern
+
+
+#### IReadRepository #### IWriteRepository
