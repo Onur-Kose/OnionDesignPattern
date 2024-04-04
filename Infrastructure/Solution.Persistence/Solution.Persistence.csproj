@@ -17,6 +17,7 @@
 
 
 	<ItemGroup>
+	  <Folder Include="SeedData\" />
 	  <Folder Include="Repository\WriteReposirtory\" />
 	  <Folder Include="Repository\ReadRepository\" />
 	</ItemGroup>

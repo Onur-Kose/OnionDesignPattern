@@ -11,6 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Abstraction\" />
+    <Folder Include="Constants\" />
     <Folder Include="Repositories\IReadRepositoies\" />
     <Folder Include="Repositories\IWriteRepositories\" />
   </ItemGroup>
