@@ -1,0 +1,9 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Solution.Application.Repositories.IBaseRepository;
+global using Solution.Domain.Entities.Common;
+global using Solution.Persistence.Context;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Solution.Domain.Enum;
+global using System.Security.Claims;
+global using System.Linq.Expressions;

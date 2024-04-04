@@ -10,4 +10,9 @@
     <ProjectReference Include="..\Solution.Domain\Solution.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\IReadRepositoies\" />
+    <Folder Include="Repositories\IWriteRepositories\" />
+  </ItemGroup>
+
 </Project>

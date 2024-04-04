@@ -6,8 +6,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
 
 	<ItemGroup>
 		<ProjectReference Include="..\..\Core\Solution.Application\Solution.Application.csproj" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+	  <Folder Include="Repository\WriteReposirtory\" />
+	  <Folder Include="Repository\ReadRepository\" />
 	</ItemGroup>
 </Project>
